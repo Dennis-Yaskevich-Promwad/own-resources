@@ -17,3 +17,4 @@ Contribute with your suggestions in this file.
 - Open Source Ecology: https://www.opensourceecology.org/
 - Open Funk: https://www.openfunk.co/
 - Glia: https://glia.org/
+- Envox: https://www.envox.eu/
